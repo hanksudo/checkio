@@ -1,3 +1,8 @@
+#!/usr/bin/env checkio --domain=py run house-password
+
+# 
+# END_DESC
+
 def checkio(data):
 
     """The password will be considered strong enough if its length is
